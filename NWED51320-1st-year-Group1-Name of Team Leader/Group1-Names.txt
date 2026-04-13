@@ -1,0 +1,15 @@
+Name and Surname Student Number
+
+• Etumeleng Phahlane 202600064 
+• Saint-Francis April 202539634
+• Confidence Sehlapelo 202602187
+• Sthandiwe Shezi 202600596
+• Awande Olwethu Mtshali 202609423
+• Angel Thembelihle Mahonga 202606728
+• Kagisho Khotso Olifant 202522818
+• Lisakhanya Dinwa 202458934
+
+
+Link to git repo:
+
+https://github.com/xx
